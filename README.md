@@ -1,4 +1,4 @@
-# Site-Report-Code
+# EDR-Aggregation-Script
 Aggregating and Filtering Important Info from EDR
 
 The purpose of this script is to take an Environmental Database Resources (EDR) Report and extract the useful information to an Environmental Consultant conducting a Phase I ESA or Environmental Transaction Screen.
